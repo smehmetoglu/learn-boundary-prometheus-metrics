@@ -1,5 +1,7 @@
 # Docker Deployment
 
+New repo here: https://github.com/hashicorp-education/learn-boundary-prometheus-metrics
+
 This directory contains an example deployment of Boundary using docker-compose
 and Terraform. The lab environment is meant to accompany the Hashicorp Learn
 [Boundary health metrics
